@@ -36,7 +36,6 @@ class TestExample(unittest.TestCase):
         self.click("body > a:nth-child(3) > table:nth-child(5) > tbody > tr:nth-child(1) > td:nth-child(2) > form > table > tbody > tr:nth-child(43) > td > a > img")
 
         time.sleep(30)
-        #fsvkfmvksfvksdmvsdv
 
 if __name__ == "__main__":
     unittest.main()
